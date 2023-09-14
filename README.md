@@ -9,3 +9,11 @@ To run this example you need to provide following ENV variables:
 * BROWSER_NAME = chrome
 * BROWSER_VERSION = 115.0
 * BROWSER_HEADLESS = true
+
+Used tools:
+* Kotlin
+* Junit5
+* Gradle (using version catalog)
+* Owner
+* Awaitility
+* Selenide
